@@ -1,0 +1,18 @@
+set of states
+set of final states
+alphabet set
+transitions
+~
+~
+~
+Test strings
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~

@@ -1,0 +1,16 @@
+2
+1
+qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM1234567890
+(0 [a-zA-Z] 1)
+(1 [a-zA-Z] 1)
+(1 [0-9] 1)
+
+HelloWorld
+abc
+1st_Ex
+Java
+the_num
+code
+X3Y7
+X=90
+X*Y
